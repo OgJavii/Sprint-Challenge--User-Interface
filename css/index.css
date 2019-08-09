@@ -211,6 +211,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    transform: rotate(0.5turn);
 }
 
 .middle-content .box:nth-child(2) {
